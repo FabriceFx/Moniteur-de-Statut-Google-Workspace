@@ -1,4 +1,4 @@
-# Moniteur de Statut Google Workspace
+# Moniteur de statut Google Workspace
 
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
@@ -7,7 +7,7 @@
 
 Ce projet est un script automatisé pour Google Apps Script qui surveille le flux RSS officiel du Google Workspace Status Dashboard. Il détecte les nouveaux incidents et envoie instantanément une alerte par email à l'administrateur.
 
-## Fonctionnalités Clés
+## Fonctionnalités clés
 
 * **Surveillance Active :** Analyse le flux Atom XML de Google.
 * **Anti-Doublons :** Utilise `PropertiesService` pour stocker les IDs des incidents déjà traités et éviter le spam.
@@ -15,7 +15,7 @@ Ce projet est un script automatisé pour Google Apps Script qui surveille le flu
 * **Alertes HTML :** Emails formatés proprement avec lien direct vers l'incident.
 * **Robustesse :** Gestion des erreurs via `try...catch` et logging complet.
 
-## Installation Manuelle
+## Installation manuelle
 
 1.  Ouvrez [Google Apps Script](https://script.google.com/).
 2.  Créez un nouveau projet nommé "Moniteur Workspace".
