@@ -1,9 +1,15 @@
 # Moniteur de statut Google Workspace
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 Ce projet est un script automatisé pour Google Apps Script qui surveille le flux RSS officiel du Google Workspace Status Dashboard. Il détecte les nouveaux incidents et envoie instantanément une alerte par email à l'administrateur.
 
@@ -29,3 +35,12 @@ Ce projet est un script automatisé pour Google Apps Script qui surveille le flu
     * Type de minuteur : **Minuteur (minutes)**.
     * Intervalle : **Toutes les 10 ou 15 minutes**.
 
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
